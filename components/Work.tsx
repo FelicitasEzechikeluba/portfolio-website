@@ -151,7 +151,7 @@ const Work = () => {
 
                 {/* Project 4 */}
                 <div className="bg-[#FAF9F6] p-5 rounded-xl">
-                    <Image src="/Healthcare insights.jfif" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
+                    <Image src="/Healthcare insights.jpg" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
 
                     <div className="flex justify-between items-center">
                         <div className="top mt-2 flex items-center gap-2">
