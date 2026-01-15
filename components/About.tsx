@@ -33,8 +33,8 @@ export default function About() {
             </div>
 
             <button className="w-44 mt-4 flex items-center gap-2 p-3 bg-gray-500 lg:hidden rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
-                <FiDownloadCloud className='text-white' />
-                <Link href={'/PearlCV.pdf'} target="_blank" className="capitalize rounded-full text-sm">Download Resume</Link>
+                 < MdOutlineViewAgenda className='text-white' />
+                        <Link href={'https://acrobat.adobe.com/id/urn%3Aaaid%3Asc%3AEU%3A50f562e2-dc84-4659-933e-5a2c15138d8f/?x_api_client_id=bookmark&x_api_client_location=Reader&filetype=application%2Fpdf'} target="_blank" className="capitalize rounded-full text-sm"> View Resume </Link>
             </button>
 
             <hr className="my-6" />
