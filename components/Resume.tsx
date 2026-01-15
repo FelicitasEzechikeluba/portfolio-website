@@ -12,83 +12,96 @@ export default function Resume() {
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Strategic Communication</h6>
+                        <h6 className="font-bold text-2xl">Advanced Data Analysis</h6>
                     </div>
 
-                    <p className="text-sm">We understand that effective communication isn&apos;t just about saying something, it&apos;s about saying the right thing in the right way to the right audience. Whether it&apos;s a donor proposal, a campaign caption, or a client brief, we communicate with clarity, purpose, and strategy. Our work ensures your message doesn&apos;t just land, it inspires action.</p>
+                    <p className="text-sm">I excel at exploring complex datasets, identifying patterns, and extracting meaningful insights using statistical methods and analytical techniques. My work ensures every analysis is thorough, accurate, and delivers actionable intelligence that directly impacts business outcomes.
+                    </p>
                 </div>
 
-                <div className="bg-[#FFEBD1] p-5 rounded-xl">
+                <div className="bg-[#FAF9F6] p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Research & Insight Generation</h6>
+                        <h6 className="font-bold text-2xl text-gray-700">Business Intelligence Tools
+                        </h6>
                     </div>
 
-                    <p className="text-sm">From securing grants to creating social media content that resonates, we dive deep into data, trends, and audience behavior to generate insights that guide meaningful content. We don&apos;t just create, we inform, ensuring every deliverable is backed by context, relevance, and accuracy.</p>
-                </div>
-
-                <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
-                    <div className="top mb-1 flex items-center gap-2">
-                        <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl"> Data Storytelling</h6>
-                    </div>
-
-                    <p className="text-sm">We blend the precision of technical writing with the emotional pull of creative storytelling. Whether it&apos;s a grant proposal, a project report, or a social impact story, we write with purpose, capturing both logic and heart. Our words don&apos;t just inform; they connect, inspire, and convert.</p>
+                    <p className="text-sm mb-3 text-gray-500">I am proficient in industry-leading BI platforms like Power BI, Tableau, and Looker. I create dynamic, interactive dashboards and reports that transform raw data into intuitive visualizations, enabling stakeholders at all levels to understand and act on critical information quickly.
+                        </p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Visual Thinking</h6>
+                        <h6 className="font-bold text-2xl">SQL & Database Management
+                        </h6>
                     </div>
 
-                    <p className="text-sm">We bring a trained eye for aesthetics and user experience into every visual piece we create, whether it&apos;s a social media graphic or a branded campaign visual. We understand that design is not just about beauty, but about enhancing clarity and amplifying impact.</p>
-                </div>
-
-                <div className="bg-[#FFEBD1] p-5 rounded-xl">
-                    <div className="top mb-1 flex items-center gap-2">
-                        <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Content Strategy & Planning</h6>
-                    </div>
-
-                    <p className="text-sm">Every piece of content we produce fits into a broader objective. From managing monthly content calendars to designing project timelines, we develop thoughtful, goal-driven plans that ensure consistency, efficiency, and value delivery, without burnout or guesswork.</p>
-                </div>
-
-                <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
-                    <div className="top mb-1 flex items-center gap-2">
-                        <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Digital Literacy & Tool Proficiency</h6>
-                    </div>
-
-                    <p className="text-sm">We are well-versed in industry-standard tools like Canva, Meta Business Suite, Google Workspace, Trello, and Microsoft Office, and we quickly adapt to new platforms. This allows us to deliver quality work efficiently and collaboratively, even under pressure.</p>
-                </div>
-
-                <div className="bg-[#F2F7FC]  dark:bg-slate-900 p-5 rounded-xl">
-                    <div className="top mb-1 flex items-center gap-2">
-                        <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Time & Project Management</h6>
-                    </div>
-
-                    <p className="text-sm">With a structured, detail-oriented approach, we manage multiple tasks, people, and deadlines without letting quality slip. Whether leading a project, managing content production, or coordinating a campaign, we deliver results on time and within scope.</p>
-                </div>
-
-                <div className="bg-[#FFEBD1] p-5 rounded-xl">
-                    <div className="top mb-1 flex items-center gap-2">
-                        <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Audience Awareness & Empathy</h6>
-                    </div>
-
-                    <p className="text-sm">We craft communication and content strategies that center on real people. From teenage audiences to technical donors, we shape messaging to resonate with their lived realities, aspirations, and attention spans, making every word, image, or post feel personal and relevant.
+                    <p className="text-sm">I write efficient, optimized SQL queries to extract and manipulate data from relational databases. My expertise includes query optimization, stored procedures, and database design, ensuring fast, reliable access to the information you need when you need it.
                     </p>
                 </div>
 
                 <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
                     <div className="top mb-1 flex items-center gap-2">
                         <FiPocket size={25} />
-                        <h6 className="font-bold text-2xl">Adaptability & Creative Problem-Solving</h6>
+                        <h6 className="font-bold text-2xl">Data Modeling & Architecture
+                    </h6>
                     </div>
 
-                    <p className="text-sm">Whether adjusting a grant strategy mid-cycle or reworking a social media plan after a platform change, we pivot quickly and with purpose. We see challenges not as roadblocks, but as invitations to innovate, and we always come prepared with solutions.</p>
+                    <p className="text-sm">I design scalable, efficient data models that serve as the backbone for analytics and reporting. From dimensional modeling to normalization, I create structures that balance performance, flexibility, and maintainability while supporting current and future business needs.
+                        </p>
+                </div>
+
+                <div className="bg-[#FAF9F6] p-5 rounded-xl">
+                    <div className="top mb-1 flex items-center gap-2">
+                        <FiPocket size={25} />
+                        <h6 className="font-bold text-2xl text-gray-700">Python & R Programming
+                        </h6>
+                    </div>
+
+                    <p className="text-sm mb-3 text-gray-500">I leverage Python and R for advanced analytics, automation, and machine learning applications. My programming skills enable me to build custom solutions, automate repetitive tasks, and apply sophisticated analytical techniques that go beyond standard tool capabilities.
+                        </p>
+                </div>
+
+                <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
+                    <div className="top mb-1 flex items-center gap-2">
+                        <FiPocket size={25} />
+                        <h6 className="font-bold text-2xl">Statistical Analysis & Machine Learning
+                        </h6>
+                    </div>
+
+                    <p className="text-sm">I apply statistical methods and machine learning algorithms to uncover hidden patterns, build predictive models, and generate forecasts. Whether it's regression analysis, classification, or clustering, I bring a rigorous, data-scientific approach to problem-solving.
+                    </p>
+                </div>
+
+                <div className="bg-[#F2F7FC]  dark:bg-slate-900 p-5 rounded-xl">
+                    <div className="top mb-1 flex items-center gap-2">
+                        <FiPocket size={25} />
+                        <h6 className="font-bold text-2xl">Data Visualization & Communication
+                        </h6>
+                    </div>
+
+                    <p className="text-sm">I understand that effective communication isn't just about saying something; it's about presenting insights in the right way to the right audience. I create compelling visualizations and clear narratives that make complex data accessible and drive informed decision-making across your organization.</p>
+                </div>
+
+                <div className="bg-[#FAF9F6] p-5 rounded-xl">
+                    <div className="top mb-1 flex items-center gap-2">
+                        <FiPocket size={25} />
+                        <h6 className="font-bold text-2xl text-gray-700">Excel & Advanced Analytics
+                        </h6>
+                    </div>
+
+                    <p className="text-sm mb-3 text-gray-500">I am an Excel power user, proficient in advanced formulas, pivot tables, macros, and Power Query. I quickly adapt to business environments where Excel remains central, delivering sophisticated analyses and automations that enhance productivity and decision-making speed.</p>
+                </div>
+                
+                <div className="bg-[#F2F7FC] dark:bg-slate-900 p-5 rounded-xl">
+                    <div className="top mb-1 flex items-center gap-2">
+                        <FiPocket size={25} />
+                        <h6 className="font-bold text-2xl">Reporting & Documentation
+                        </h6>
+                    </div>
+
+                    <p className="text-sm">I produce clear, comprehensive reports that translate analytical findings into actionable recommendations. My documentation ensures that methodologies, assumptions, and insights are well-recorded, enabling knowledge transfer and supporting informed decision-making across teams.</p>
                 </div>
 
 
