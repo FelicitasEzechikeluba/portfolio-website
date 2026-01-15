@@ -3,13 +3,13 @@ import Link from 'next/link'
 
 const Work = () => {
     return (
-        <main className='bg-white dark:bg-slate-700 w-full h-[36rem] rounded-3xl mt-2 p-7 md:p-14 overflow-hidden overflow-y-auto lg:overflow-y-hidden hover:overflow-y-auto hover:shadow-lg duration-700'>
-            <div className='flex gap-4 items-center'>
-                <h1 className={`capitalize font-bold text-4xl flex items-center gap-3 font-luckiest`}>Portfolio <span className="text-5xl"></span></h1>
-                <hr className="w-[50rem]" />
+        <main className="bg-white dark:bg-slate-700 w-full h-auto lg:h-[36rem] rounded-3xl mt-2 p-7 md:p-14 overflow-y-auto hover:shadow-lg duration-700">
+            <div className="flex items-center gap-4">
+                <h1 className="capitalize font-bold text-4xl font-luckiest">Portfolio</h1>
+                <hr className="flex-1" />
             </div>
 
-            <div className="grid lg:grid-cols-2 gap-5 mt-5">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 mt-5">
                 {/* Project 1 */}
                 <div className="bg-[#FAF9F6] p-5 rounded-xl">
                     <Image src="/Hospital records analysis.webp" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
@@ -33,7 +33,7 @@ const Work = () => {
                         </span>
                     </p>
 
-                    <div className="w-full flex justify-center gap-4">
+                        <div className="w-full flex flex-col sm:flex-row justify-center gap-4">
                         <button className="w-44 flex items-center gap-2 p-3 bg-gradient-to-r from-[#FF9C1A] to-[#EC1B09] rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                             <Link
                                 href="https://github.com/FelicitasEzechikeluba/TDI-POWER-BI-CAPSTONE-PROJECT--Hospital-Records-Analysis-Healthcare-Utilization-and-Cost-Insights"
@@ -80,7 +80,7 @@ const Work = () => {
                         </span>
                     </p>
 
-                    <div className="w-full flex justify-center gap-4">
+                    <div className="w-full flex flex-col sm:flex-row justify-center gap-4">
                         <button className="w-44 flex items-center gap-2 p-3 bg-gradient-to-r from-[#FF9C1A] to-[#EC1B09] rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                             <Link
                                 href="https://github.com/FelicitasEzechikeluba/TDI-SQL-CAPSTONE-PROJECT--Maven-Toys-Stores-Product-and-Sales-Performance-Analysis"
@@ -126,7 +126,7 @@ const Work = () => {
                         </span>
                     </p>
 
-                    <div className="w-full flex justify-center gap-4">
+                    <div className="w-full flex flex-col sm:flex-row justify-center gap-4">
                         <button className="w-44 flex items-center gap-2 p-3 bg-gradient-to-r from-[#FF9C1A] to-[#EC1B09] rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                             <Link
                                 href="https://github.com/FelicitasEzechikeluba/ESG-Financial-Performance-TDI-Excel-Capstone-Project"
@@ -173,7 +173,7 @@ const Work = () => {
                         </span>
                     </p>
 
-                    <div className="w-full flex justify-center gap-4">
+                    <div className="w-full flex flex-col sm:flex-row justify-center gap-4">
                         <button className="w-44 flex items-center gap-2 p-3 bg-gradient-to-r from-[#FF9C1A] to-[#EC1B09] rounded-full justify-center text-[#F2F5F9] text-sm hover:scale-105 hover:shadow-lg border-2 duration-700">
                             <Link
                                 href="https://www.linkedin.com/posts/felicitas-ezechikeluba_healthcareanalytics-dataforgood-publichealth-activity-7374747040548831234-eE4V?utm_source=share&utm_medium=member_desktop&rcm=ACoAADm3i8ABGiTWT8Qnb9YHK7F7sgenA9xtpC0"
