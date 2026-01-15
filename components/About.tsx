@@ -15,7 +15,7 @@ export default function About() {
             <p className="mt-4">Are you searching for a data-driven storyteller who can transform raw numbers into actionable insights? Do complex datasets leave you overwhelmed and unsure where to start? Does making critical business decisions feel risky without clear, reliable analytics? Do you need someone who can bridge the gap between data and strategy?
                 Does your work schedule make it a little difficult for you to get things done?
                 <p>Introducing DataVision Analytics and Associates, your trusted partner who can do it all! I am a results-oriented data professional capable of analyzing complex datasets, building intuitive dashboards, and delivering insights with exceptional clarity and precision.</p>
-                <p>Forget spending countless hours wrestling with data or struggling to communicate findings effectively. I am a passionate and skilled analyst who will save you time and effort while ensuring your data tells a compelling story that drives informed decision-making. Let's turn your data into your competitive advantage!</p></p>
+                <p>Forget spending countless hours wrestling with data or struggling to communicate findings effectively. I am a passionate and skilled analyst who will save you time and effort while ensuring your data tells a compelling story that drives informed decision-making. Let&apos;s turn your data into your competitive advantage!</p></p>
 
              <div className="icons flex gap-3 mt-3">
                 <Link href={'https://github.com/FelicitasEzechikeluba'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
@@ -105,7 +105,7 @@ export default function About() {
 
                     </div>
 
-                    <p className="text-sm">Whether it's executive presentations or operational dashboards, I transform numbers into compelling visual narratives. Through thoughtful design and strategic communication, I turn insights into words and visuals that inspire action and resonate with your audience.
+                    <p className="text-sm">Whether it&apos;s executive presentations or operational dashboards, I transform numbers into compelling visual narratives. Through thoughtful design and strategic communication, I turn insights into words and visuals that inspire action and resonate with your audience.
 
                     </p>
                 </div>
