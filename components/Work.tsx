@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { FiLink2 } from 'react-icons/fi'
 
 const Work = () => {
     return (
@@ -13,7 +12,7 @@ const Work = () => {
             <div className="grid lg:grid-cols-2 gap-5 mt-5">
                 {/* Project 1 */}
                 <div className="bg-[#FAF9F6] p-5 rounded-xl">
-                    <img src="/Hospital records analysis.webp" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
+                    <Image src="/Hospital records analysis.webp" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
 
                     <div className="flex justify-between items-center">
                         <div className="top mt-2 flex items-center gap-2">
@@ -59,7 +58,7 @@ const Work = () => {
 
                 {/* Project 2 */}
                 <div className="bg-[#FAF9F6] p-5 rounded-xl">
-                    <img src="/Maven Toys.webp" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
+                    <Image src="/Maven Toys.webp" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
 
                     <div className="flex justify-between items-center">
                         <div className="top mt-2 flex items-center gap-2">
@@ -69,7 +68,7 @@ const Work = () => {
                     </div>
 
                     <p className="text-sm mb-3 text-black">
-                        Conducted an in-depth retail analytics study examining sales performance, inventory turnover, and customer purchasing patterns across Maven Toys' product lines and store locations. The analysis revealed seasonal trends, top-performing product categories, and underperforming stores, delivering strategic recommendations that drive revenue growth, optimize inventory management, and enhance overall retail profitability.
+                        Conducted an in-depth retail analytics study examining sales performance, inventory turnover, and customer purchasing patterns across Maven Toys&apos; product lines and store locations. The analysis revealed seasonal trends, top-performing product categories, and underperforming stores, delivering strategic recommendations that drive revenue growth, optimize inventory management, and enhance overall retail profitability.
                     </p>
 
                     <div className="border-t border-red-500 my-4"></div>
@@ -106,7 +105,7 @@ const Work = () => {
 
                 {/* Project 3 */}
                 <div className="bg-[#FAF9F6] p-5 rounded-xl">
-                    <img src="/ESG Financial Analysis.webp" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
+                    <Image src="/ESG Financial Analysis.webp" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
 
                     <div className="flex justify-between items-center">
                         <div className="top mt-2 flex items-center gap-2">
@@ -152,7 +151,7 @@ const Work = () => {
 
                 {/* Project 4 */}
                 <div className="bg-[#FAF9F6] p-5 rounded-xl">
-                    <img src="/Healthcare insights.jfif" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
+                    <Image src="/Healthcare insights.jfif" alt="Project photo" className='rounded-lg mb-4' width={10000} height={2} />
 
                     <div className="flex justify-between items-center">
                         <div className="top mt-2 flex items-center gap-2">

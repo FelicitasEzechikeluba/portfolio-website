@@ -4,9 +4,9 @@ import React, { FormEventHandler, useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 
 import { FiMail, FiPhoneCall } from "react-icons/fi"
-import { Luckiest_Guy } from 'next/font/google'
+import { Bangers } from 'next/font/google'
 import Alert from './Alert';
-const luckiest = Luckiest_Guy({ subsets: ['latin'], weight: ['400'] })
+const luckiest = Bangers({ subsets: ['latin'], weight: ['400'] })
 
 const Contact = () => {
     const form = useRef<any>();
