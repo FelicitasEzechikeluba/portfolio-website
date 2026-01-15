@@ -17,7 +17,7 @@ export default function About() {
                 <p>Introducing DataVision Analytics and Associates, your trusted partner who can do it all! I am a results-oriented data professional capable of analyzing complex datasets, building intuitive dashboards, and delivering insights with exceptional clarity and precision.</p>
                 <p>Forget spending countless hours wrestling with data or struggling to communicate findings effectively. I am a passionate and skilled analyst who will save you time and effort while ensuring your data tells a compelling story that drives informed decision-making. Let&apos;s turn your data into your competitive advantage!</p></p>
 
-             <div className="icons flex gap-3 mt-3">
+             <div className="icons flex gap-3 mt-3 lg:hidden">
                 <Link href={'https://github.com/FelicitasEzechikeluba'} target="_blank" className="bg-[#F2F7FC] dark:bg-slate-300 p-4 rounded-lg">
                     <SiGithub size={16} className='text-black' />
                 </Link>
