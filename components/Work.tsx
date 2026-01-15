@@ -69,7 +69,7 @@ const Work = () => {
                     </div>
 
                     <p className="text-sm mb-3 text-black">
-                        Conducted an in-depth retail analytics study examining sales performance, inventory turnover, and customer purchasing patterns across Maven Toys&apos; product lines and store locations. The analysis revealed seasonal trends, top-performing product categories, and underperforming stores, delivering strategic recommendations that drive revenue growth, optimize inventory management, and enhance overall retail profitability.
+                        Conducted an in-depth retail analytics study examining sales performance, inventory turnover, and customer purchasing patterns across Maven Toys' product lines and store locations. The analysis revealed seasonal trends, top-performing product categories, and underperforming stores, delivering strategic recommendations that drive revenue growth, optimize inventory management, and enhance overall retail profitability.
                     </p>
 
                     <div className="border-t border-red-500 my-4"></div>

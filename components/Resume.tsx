@@ -70,7 +70,7 @@ export default function Resume() {
                         </h6>
                     </div>
 
-                    <p className="text-sm">I apply statistical methods and machine learning algorithms to uncover hidden patterns, build predictive models, and generate forecasts. Whether it&apos;s regression analysis, classification, or clustering, I bring a rigorous, data-scientific approach to problem-solving.
+                    <p className="text-sm">I apply statistical methods and machine learning algorithms to uncover hidden patterns, build predictive models, and generate forecasts. Whether it's regression analysis, classification, or clustering, I bring a rigorous, data-scientific approach to problem-solving.
                     </p>
                 </div>
 
@@ -81,7 +81,7 @@ export default function Resume() {
                         </h6>
                     </div>
 
-                    <p className="text-sm">I understand that effective communication isn&apos;t just about saying something; it&apos;s about presenting insights in the right way to the right audience. I create compelling visualizations and clear narratives that make complex data accessible and drive informed decision-making across your organization.</p>
+                    <p className="text-sm">I understand that effective communication isn't just about saying something; it's about presenting insights in the right way to the right audience. I create compelling visualizations and clear narratives that make complex data accessible and drive informed decision-making across your organization.</p>
                 </div>
 
                 <div className="bg-[#FAF9F6] p-5 rounded-xl">
